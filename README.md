@@ -27,7 +27,11 @@ XOS Auto BOT
 
 2. **Install Requirements:**
    ```bash
-   pip install -r requirements.txt #or pip3 install -r requirements.txt
+   pip install -r requirements.txt
+   ```
+   or
+   ```bash
+   pip3 install -r requirements.txt
    ```
 
 ## Configuration
