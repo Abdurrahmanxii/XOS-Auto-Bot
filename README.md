@@ -1,5 +1,5 @@
-# XOS BOT
-XOS BOT
+# XOS Auto Bot
+XOS Auto BOT
 
 - Register Here : [XOS](https://X.ink/NVG7LF)
 
