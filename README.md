@@ -21,10 +21,8 @@ XOS Auto BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Xos-BOT.git
-   ```
-   ```bash
-   cd Xos-BOT
+   git clone https://github.com/Abdurrahmanxii/XOS-Auto-Bot.git
+   cd XOS-Auto-Bot
    ```
 
 2. **Install Requirements:**
